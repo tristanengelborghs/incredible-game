@@ -1,0 +1,21 @@
+.logo {
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.health{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.endGame {
+    display: flex;
+    justify-content: space-around;
+    padding: 70px 0;
+}
